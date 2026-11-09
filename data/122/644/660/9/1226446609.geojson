@@ -50,7 +50,7 @@
         "wk:page":"Oltinkol"
     },
     "wof:country":"UZ",
-    "wof:geomhash":"d4d626afa1924a5e1d69d3f20624a288",
+    "wof:geomhash":"c07aa0fe84d26a00f6c83257f9093c26",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     72.17305999999998,
     40.80104
 ],
-  "geometry": {"coordinates":[72.17305999999998,40.80104],"type":"Point"}
+  "geometry": {"coordinates":[72.17306,40.80104],"type":"Point"}
 }

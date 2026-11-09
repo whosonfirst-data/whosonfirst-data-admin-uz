@@ -75,7 +75,7 @@
         "wk:page":"Keles%2C_Uzbekistan"
     },
     "wof:country":"UZ",
-    "wof:geomhash":"df8951e59f318a36ecd68a4301f1965c",
+    "wof:geomhash":"0e6108c7f6f2a88f04204f3b7121f656",
     "wof:hierarchy":[
         {
             "country_id":85632645,
@@ -98,5 +98,5 @@
     69.20666999999999,
     41.40333
 ],
-  "geometry": {"coordinates":[69.20666999999999,41.40333],"type":"Point"}
+  "geometry": {"coordinates":[69.20667,41.40333],"type":"Point"}
 }

@@ -53,7 +53,7 @@
         "wk:page":"Shakhrihon"
     },
     "wof:country":"UZ",
-    "wof:geomhash":"2d9cdf8e3b1d01614a9e209daf827d72",
+    "wof:geomhash":"3696e9943c51dfbb9f0ef83a014a1326",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     72.05705999999998,
     40.71331
 ],
-  "geometry": {"coordinates":[72.05705999999998,40.71331],"type":"Point"}
+  "geometry": {"coordinates":[72.05706,40.71331],"type":"Point"}
 }

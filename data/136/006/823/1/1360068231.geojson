@@ -40,7 +40,7 @@
         "gn:id":1531898
     },
     "wof:country":"UZ",
-    "wof:geomhash":"db2f2ab8dfd61fd4d6f32e3ec96fffe4",
+    "wof:geomhash":"69d33593aa56d80073c1f59b5cf1489b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,5 +65,5 @@
     67.90444000000001,
     41.11056
 ],
-  "geometry": {"coordinates":[67.90444000000001,41.11056],"type":"Point"}
+  "geometry": {"coordinates":[67.90444,41.11056],"type":"Point"}
 }

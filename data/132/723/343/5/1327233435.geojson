@@ -49,7 +49,7 @@
         "wk:page":"Sokh_District"
     },
     "wof:country":"UZ",
-    "wof:geomhash":"e028f759850eefa6b68071f5e9a58975",
+    "wof:geomhash":"ef6087ab1026588988f4d8ff4cdc5356",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     71.14565,
     39.94694000000001
 ],
-  "geometry": {"coordinates":[71.14565,39.94694000000001],"type":"Point"}
+  "geometry": {"coordinates":[71.14565,39.94694],"type":"Point"}
 }

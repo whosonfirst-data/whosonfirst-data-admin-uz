@@ -47,7 +47,7 @@
         "wk:page":"To%E2%80%98raqo%E2%80%98rg%E2%80%98on"
     },
     "wof:country":"UZ",
-    "wof:geomhash":"52abad2c5aa907bc93718f4fde761a90",
+    "wof:geomhash":"2e362c4800be14650bbcdacad23a1eb5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,5 +72,5 @@
     71.50908000000003,
     40.93825
 ],
-  "geometry": {"coordinates":[71.50908000000003,40.93825],"type":"Point"}
+  "geometry": {"coordinates":[71.50908,40.93825],"type":"Point"}
 }

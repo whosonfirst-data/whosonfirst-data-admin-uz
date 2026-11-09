@@ -52,7 +52,7 @@
         "wk:page":"Do%E2%80%98stobod"
     },
     "wof:country":"UZ",
-    "wof:geomhash":"cbf7865a8ba480bbe63f791d4802a39b",
+    "wof:geomhash":"c53a4a3803bc590ef88c8e5a8efb237c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,5 +77,5 @@
     68.92926999999999,
     40.85679
 ],
-  "geometry": {"coordinates":[68.92926999999999,40.85679],"type":"Point"}
+  "geometry": {"coordinates":[68.92927,40.85679],"type":"Point"}
 }

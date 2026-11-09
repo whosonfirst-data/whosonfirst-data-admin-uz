@@ -49,7 +49,7 @@
         "wk:page":"Yarmacha"
     },
     "wof:country":"UZ",
-    "wof:geomhash":"8960dd07a15912896b2646b1ba1ae628",
+    "wof:geomhash":"8806a787782115a763268ededa9010f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -74,5 +74,5 @@
     60.71666999999999,
     41.41667
 ],
-  "geometry": {"coordinates":[60.71666999999999,41.41667],"type":"Point"}
+  "geometry": {"coordinates":[60.71667,41.41667],"type":"Point"}
 }

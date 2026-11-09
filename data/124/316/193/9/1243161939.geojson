@@ -50,7 +50,7 @@
         "wk:page":"Tokmak%2C_Uzbekistan"
     },
     "wof:country":"UZ",
-    "wof:geomhash":"5c91a20e83544d4dac3e182595be6fd5",
+    "wof:geomhash":"d09bb163632d2f529a679e37ced59887",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     58.98484000000001,
     43.80409
 ],
-  "geometry": {"coordinates":[58.98484000000001,43.80409],"type":"Point"}
+  "geometry": {"coordinates":[58.98484,43.80409],"type":"Point"}
 }

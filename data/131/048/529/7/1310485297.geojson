@@ -50,7 +50,7 @@
         "wk:page":"Krasnogorsk%2C_Uzbekistan"
     },
     "wof:country":"UZ",
-    "wof:geomhash":"7774e035b5aa3ed52121fb3889c658c4",
+    "wof:geomhash":"4a12aa0c4afb7d4f785eef80fc3bebc5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -75,5 +75,5 @@
     69.67111,
     41.14944000000001
 ],
-  "geometry": {"coordinates":[69.67111,41.14944000000001],"type":"Point"}
+  "geometry": {"coordinates":[69.67111,41.14944],"type":"Point"}
 }

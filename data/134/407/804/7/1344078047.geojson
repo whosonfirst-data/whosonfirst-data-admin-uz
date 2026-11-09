@@ -76,7 +76,7 @@
         "wk:page":"Karmana"
     },
     "wof:country":"UZ",
-    "wof:geomhash":"49f488f497a2e86975fd879a1dcf40ad",
+    "wof:geomhash":"7a7ab48cc2f5e748e42434a9e3afe3e4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -101,5 +101,5 @@
     65.42099,
     40.10769000000001
 ],
-  "geometry": {"coordinates":[65.42099,40.10769000000001],"type":"Point"}
+  "geometry": {"coordinates":[65.42099,40.10769],"type":"Point"}
 }

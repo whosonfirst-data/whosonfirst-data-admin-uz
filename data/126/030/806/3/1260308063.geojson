@@ -53,7 +53,7 @@
         "wk:page":"Khazratsho"
     },
     "wof:country":"UZ",
-    "wof:geomhash":"61dc3b3946ceb7769e54c9c3bd92b044",
+    "wof:geomhash":"c26c160fb77cc66f19ae4170641a0116",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     71.78903000000003,
     41.39465
 ],
-  "geometry": {"coordinates":[71.78903000000003,41.39465],"type":"Point"}
+  "geometry": {"coordinates":[71.78903,41.39465],"type":"Point"}
 }

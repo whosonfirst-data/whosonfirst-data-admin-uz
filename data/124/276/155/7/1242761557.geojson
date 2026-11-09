@@ -67,7 +67,7 @@
         "wk:page":"Toyloq"
     },
     "wof:country":"UZ",
-    "wof:geomhash":"bf8964e772ac9e0a8f4ae8ec3e9a6d3a",
+    "wof:geomhash":"a74481d75bcb08ffcd88e228379fcd03",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,5 +92,5 @@
     67.09083000000001,
     39.60139
 ],
-  "geometry": {"coordinates":[67.09083000000001,39.60139],"type":"Point"}
+  "geometry": {"coordinates":[67.09083,39.60139],"type":"Point"}
 }

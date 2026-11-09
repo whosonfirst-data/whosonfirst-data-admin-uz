@@ -47,7 +47,7 @@
         "wk:page":"Chinobod"
     },
     "wof:country":"UZ",
-    "wof:geomhash":"13ee988400b8f43b656d2a002f79b913",
+    "wof:geomhash":"09f65d04f62ebfb9f735ba36410a3f02",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -72,5 +72,5 @@
     71.97263000000002,
     40.87677
 ],
-  "geometry": {"coordinates":[71.97263000000002,40.87677],"type":"Point"}
+  "geometry": {"coordinates":[71.97263,40.87677],"type":"Point"}
 }

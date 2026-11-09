@@ -46,7 +46,7 @@
         "wk:page":"Chorvoq%2C_Uzbekistan"
     },
     "wof:country":"UZ",
-    "wof:geomhash":"23e787f39de16a0d78e70a8ba09949cf",
+    "wof:geomhash":"0bcc739d0131282d08f013054aede655",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -71,5 +71,5 @@
     69.93861,
     41.63417000000001
 ],
-  "geometry": {"coordinates":[69.93861,41.63417000000001],"type":"Point"}
+  "geometry": {"coordinates":[69.93861,41.63417],"type":"Point"}
 }

@@ -60,7 +60,7 @@
         "wk:page":"Uchkhizil"
     },
     "wof:country":"UZ",
-    "wof:geomhash":"1681a6182bb11ac69665a120820c2e23",
+    "wof:geomhash":"59998159902596b6233ad43dba8232a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,5 +85,5 @@
     67.23361,
     37.34444000000001
 ],
-  "geometry": {"coordinates":[67.23361,37.34444000000001],"type":"Point"}
+  "geometry": {"coordinates":[67.23361,37.34444],"type":"Point"}
 }

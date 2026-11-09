@@ -93,7 +93,7 @@
         "wk:page":"Akkurgan"
     },
     "wof:country":"UZ",
-    "wof:geomhash":"91087ac0b7afb3d6eb0530b1820aafc5",
+    "wof:geomhash":"6c5c6e8cb4fcc01f3b76669e8b94a499",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -118,5 +118,5 @@
     69.04583000000001,
     40.8775
 ],
-  "geometry": {"coordinates":[69.04583000000001,40.8775],"type":"Point"}
+  "geometry": {"coordinates":[69.04583,40.8775],"type":"Point"}
 }

@@ -64,7 +64,7 @@
         "wk:page":"Zarbdar"
     },
     "wof:country":"UZ",
-    "wof:geomhash":"1a5fcc0edd1a6c342eac09fa6842a9a9",
+    "wof:geomhash":"7f1275f28d111d252d4b05f2fa376768",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,5 +89,5 @@
     68.17083000000001,
     40.06472
 ],
-  "geometry": {"coordinates":[68.17083000000001,40.06472],"type":"Point"}
+  "geometry": {"coordinates":[68.17083,40.06472],"type":"Point"}
 }

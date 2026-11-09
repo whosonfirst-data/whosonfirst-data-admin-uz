@@ -53,7 +53,7 @@
         "wk:page":"Chimyan"
     },
     "wof:country":"UZ",
-    "wof:geomhash":"8b9fb83617f2e984ec14967cc07c62f3",
+    "wof:geomhash":"b7e79f8394af998dbbe93e30b0a680ac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     71.51550999999998,
     40.25502
 ],
-  "geometry": {"coordinates":[71.51550999999998,40.25502],"type":"Point"}
+  "geometry": {"coordinates":[71.51551,40.25502],"type":"Point"}
 }

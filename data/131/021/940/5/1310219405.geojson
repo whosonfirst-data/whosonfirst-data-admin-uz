@@ -53,7 +53,7 @@
         "wk:page":"Khadyrsha"
     },
     "wof:country":"UZ",
-    "wof:geomhash":"51754f10cfc7d1aa675e016eeaae161c",
+    "wof:geomhash":"2d11a545eb240fa84b3bb19810e1f66d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -78,5 +78,5 @@
     73.02663000000003,
     40.83646
 ],
-  "geometry": {"coordinates":[73.02663000000003,40.83646],"type":"Point"}
+  "geometry": {"coordinates":[73.02663,40.83646],"type":"Point"}
 }

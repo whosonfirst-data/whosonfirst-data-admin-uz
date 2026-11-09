@@ -48,7 +48,7 @@
         "wk:page":"Limbur"
     },
     "wof:country":"UZ",
-    "wof:geomhash":"f59ec95d22cc34520439fa95bf396848",
+    "wof:geomhash":"7a85a332f124f690009ec7f7dd1d8ce8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -73,5 +73,5 @@
     71.09973000000002,
     40.06632000000001
 ],
-  "geometry": {"coordinates":[71.09973000000002,40.06632000000001],"type":"Point"}
+  "geometry": {"coordinates":[71.09973,40.06632],"type":"Point"}
 }

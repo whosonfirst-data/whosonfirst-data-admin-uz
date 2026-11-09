@@ -71,7 +71,7 @@
         "wk:page":"Shirin%2C_Uzbekistan"
     },
     "wof:country":"UZ",
-    "wof:geomhash":"6effdd3fdf3b49451c7149d6d2203041",
+    "wof:geomhash":"398c8a9e92abdf2473c0f258efcddc88",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -96,5 +96,5 @@
     69.14974000000001,
     40.22343
 ],
-  "geometry": {"coordinates":[69.14974000000001,40.22343],"type":"Point"}
+  "geometry": {"coordinates":[69.14974,40.22343],"type":"Point"}
 }

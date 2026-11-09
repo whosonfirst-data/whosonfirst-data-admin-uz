@@ -61,7 +61,7 @@
         "wk:page":"Gulbakhor"
     },
     "wof:country":"UZ",
-    "wof:geomhash":"380ed478d3cb7c39b7319a66fa4bd4a8",
+    "wof:geomhash":"273cfcdfc2292dd472c205f81880afc0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -86,5 +86,5 @@
     69.01528,
     41.08694000000001
 ],
-  "geometry": {"coordinates":[69.01528,41.08694000000001],"type":"Point"}
+  "geometry": {"coordinates":[69.01528,41.08694],"type":"Point"}
 }
