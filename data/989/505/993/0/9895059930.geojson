@@ -1,0 +1,72 @@
+{
+  "id": 9895059930,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.56455,40.23017,68.56455,40.23017",
+    "geom:latitude":40.23017,
+    "geom:longitude":68.56455,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12126990: name \"Tairov\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12126990"
+        },
+        {
+            "citation":"GeoNames populated place 12126990: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12126990"
+        },
+        {
+            "citation":"GeoNames populated place 12126990: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12126990"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680415 (Jizzakh), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680415,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12126990
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"98fade8c6fe660d475cebdb83d2b61ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895059930,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":9895059930,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Tairov",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.56455,
+    40.23017,
+    68.56455,
+    40.23017
+],
+  "geometry": {"coordinates":[68.56455,40.23017],"type":"Point"}
+}

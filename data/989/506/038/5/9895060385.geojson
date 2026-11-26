@@ -1,0 +1,72 @@
+{
+  "id": 9895060385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.07989,40.57129,71.07989,40.57129",
+    "geom:latitude":40.57129,
+    "geom:longitude":71.07989,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13430947: name \"Yangiqishloq\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13430947"
+        },
+        {
+            "citation":"GeoNames populated place 13430947: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13430947"
+        },
+        {
+            "citation":"GeoNames populated place 13430947: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13430947"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680407 (Ferghana), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680407,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13430947
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"fbaef48de80903447249a9ef6fc0c918",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895060385,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":9895060385,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Yangiqishloq",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.07989,
+    40.57129,
+    71.07989,
+    40.57129
+],
+  "geometry": {"coordinates":[71.07989,40.57129],"type":"Point"}
+}

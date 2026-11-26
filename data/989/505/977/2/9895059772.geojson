@@ -1,0 +1,72 @@
+{
+  "id": 9895059772,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.67818,39.52341,63.67818,39.52341",
+    "geom:latitude":39.52341,
+    "geom:longitude":63.67818,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12126209: name \"Ijtimoiy\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12126209"
+        },
+        {
+            "citation":"GeoNames populated place 12126209: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12126209"
+        },
+        {
+            "citation":"GeoNames populated place 12126209: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12126209"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680373 (Bukhoro), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680373,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12126209
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e6f033abf9764f6176934bb1b2f27ef0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895059772,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":9895059772,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Ijtimoiy",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.67818,
+    39.52341,
+    63.67818,
+    39.52341
+],
+  "geometry": {"coordinates":[63.67818,39.52341],"type":"Point"}
+}

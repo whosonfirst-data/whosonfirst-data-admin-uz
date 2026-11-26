@@ -1,0 +1,72 @@
+{
+  "id": 9895059873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.59543,39.77754,64.59543,39.77754",
+    "geom:latitude":39.77754,
+    "geom:longitude":64.59543,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12126727: name \"Turkmanuyeli\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12126727"
+        },
+        {
+            "citation":"GeoNames populated place 12126727: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12126727"
+        },
+        {
+            "citation":"GeoNames populated place 12126727: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12126727"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680373 (Bukhoro), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680373,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12126727
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"340ce8e000d8a85b0d5d7837674c1dc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895059873,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":9895059873,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Turkmanuyeli",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.59543,
+    39.77754,
+    64.59543,
+    39.77754
+],
+  "geometry": {"coordinates":[64.59543,39.77754],"type":"Point"}
+}

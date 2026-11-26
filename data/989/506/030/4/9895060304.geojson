@@ -1,0 +1,72 @@
+{
+  "id": 9895060304,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.26576,41.55311,60.26576,41.55311",
+    "geom:latitude":41.55311,
+    "geom:longitude":60.26576,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12152735: name \"Burlak\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12152735"
+        },
+        {
+            "citation":"GeoNames populated place 12152735: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12152735"
+        },
+        {
+            "citation":"GeoNames populated place 12152735: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12152735"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680377 (Khorezm), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680377,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12152735
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"8c6394b51e7ff89df2b5e758be8f2c19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895060304,
+            "region_id":85680377
+        }
+    ],
+    "wof:id":9895060304,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Burlak",
+    "wof:parent_id":85680377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.26576,
+    41.55311,
+    60.26576,
+    41.55311
+],
+  "geometry": {"coordinates":[60.26576,41.55311],"type":"Point"}
+}

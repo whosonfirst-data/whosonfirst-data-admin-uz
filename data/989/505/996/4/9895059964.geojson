@@ -1,0 +1,72 @@
+{
+  "id": 9895059964,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.24758,40.42013,67.24758,40.42013",
+    "geom:latitude":40.42013,
+    "geom:longitude":67.24758,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12127046: name \"Domari\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12127046"
+        },
+        {
+            "citation":"GeoNames populated place 12127046: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12127046"
+        },
+        {
+            "citation":"GeoNames populated place 12127046: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12127046"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680415 (Jizzakh), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680415,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12127046
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"93ec09db771485c3240af5776031efe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895059964,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":9895059964,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Domari",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.24758,
+    40.42013,
+    67.24758,
+    40.42013
+],
+  "geometry": {"coordinates":[67.24758,40.42013],"type":"Point"}
+}

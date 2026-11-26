@@ -1,0 +1,72 @@
+{
+  "id": 9895059774,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.69236,39.45037,63.69236,39.45037",
+    "geom:latitude":39.45037,
+    "geom:longitude":63.69236,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12126211: name \"Arna\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12126211"
+        },
+        {
+            "citation":"GeoNames populated place 12126211: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12126211"
+        },
+        {
+            "citation":"GeoNames populated place 12126211: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12126211"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680373 (Bukhoro), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680373,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12126211
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"12d5cd326bff7211a8db95338b7da3ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895059774,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":9895059774,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Arna",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.69236,
+    39.45037,
+    63.69236,
+    39.45037
+],
+  "geometry": {"coordinates":[63.69236,39.45037],"type":"Point"}
+}

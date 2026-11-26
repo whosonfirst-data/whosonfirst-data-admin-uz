@@ -1,0 +1,72 @@
+{
+  "id": 9895060131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.47347,39.87507,66.47347,39.87507",
+    "geom:latitude":39.87507,
+    "geom:longitude":66.47347,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12127958: name \"Buloqcha\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12127958"
+        },
+        {
+            "citation":"GeoNames populated place 12127958: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12127958"
+        },
+        {
+            "citation":"GeoNames populated place 12127958: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12127958"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680389 (Samarkand), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680389,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12127958
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e565d1387ff457d6814f303786027850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895060131,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":9895060131,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Buloqcha",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.47347,
+    39.87507,
+    66.47347,
+    39.87507
+],
+  "geometry": {"coordinates":[66.47347,39.87507],"type":"Point"}
+}

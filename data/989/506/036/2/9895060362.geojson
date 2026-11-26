@@ -1,0 +1,72 @@
+{
+  "id": 9895060362,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.01112,41.2923,61.01112,41.2923",
+    "geom:latitude":41.2923,
+    "geom:longitude":61.01112,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12153101: name \"Ayrit\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12153101"
+        },
+        {
+            "citation":"GeoNames populated place 12153101: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12153101"
+        },
+        {
+            "citation":"GeoNames populated place 12153101: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12153101"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680377 (Khorezm), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680377,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12153101
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"93684964e31c67dafe59296a2f21d2d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895060362,
+            "region_id":85680377
+        }
+    ],
+    "wof:id":9895060362,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Ayrit",
+    "wof:parent_id":85680377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.01112,
+    41.2923,
+    61.01112,
+    41.2923
+],
+  "geometry": {"coordinates":[61.01112,41.2923],"type":"Point"}
+}

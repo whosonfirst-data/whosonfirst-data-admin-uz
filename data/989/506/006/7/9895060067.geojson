@@ -1,0 +1,72 @@
+{
+  "id": 9895060067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.73357,40.01745,65.73357,40.01745",
+    "geom:latitude":40.01745,
+    "geom:longitude":65.73357,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12127803: name \"Qayishfurush\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12127803"
+        },
+        {
+            "citation":"GeoNames populated place 12127803: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12127803"
+        },
+        {
+            "citation":"GeoNames populated place 12127803: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12127803"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680389 (Samarkand), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680389,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12127803
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ec49a33e9d1d599f98abf5b2ed976417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895060067,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":9895060067,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Qayishfurush",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.73357,
+    40.01745,
+    65.73357,
+    40.01745
+],
+  "geometry": {"coordinates":[65.73357,40.01745],"type":"Point"}
+}

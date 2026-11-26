@@ -1,0 +1,72 @@
+{
+  "id": 9895059784,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.88614,39.39256,63.88614,39.39256",
+    "geom:latitude":39.39256,
+    "geom:longitude":63.88614,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12126228: name \"Jumabozor\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12126228"
+        },
+        {
+            "citation":"GeoNames populated place 12126228: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12126228"
+        },
+        {
+            "citation":"GeoNames populated place 12126228: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12126228"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680373 (Bukhoro), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680373,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12126228
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"fa387bc122d7df53290759d5894f8d10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895059784,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":9895059784,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Jumabozor",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.88614,
+    39.39256,
+    63.88614,
+    39.39256
+],
+  "geometry": {"coordinates":[63.88614,39.39256],"type":"Point"}
+}

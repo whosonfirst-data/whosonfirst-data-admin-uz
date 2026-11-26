@@ -1,0 +1,72 @@
+{
+  "id": 9895059995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.50521,39.9666,67.50521,39.9666",
+    "geom:latitude":39.9666,
+    "geom:longitude":67.50521,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12127139: name \"Yangiqishloq\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12127139"
+        },
+        {
+            "citation":"GeoNames populated place 12127139: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12127139"
+        },
+        {
+            "citation":"GeoNames populated place 12127139: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12127139"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680415 (Jizzakh), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680415,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12127139
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0bbabd869dd60377cffdddf1afdd8eb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895059995,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":9895059995,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Yangiqishloq",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.50521,
+    39.9666,
+    67.50521,
+    39.9666
+],
+  "geometry": {"coordinates":[67.50521,39.9666],"type":"Point"}
+}

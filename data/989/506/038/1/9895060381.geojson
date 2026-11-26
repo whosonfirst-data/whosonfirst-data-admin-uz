@@ -1,0 +1,72 @@
+{
+  "id": 9895060381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"70.68284,40.39276,70.68284,40.39276",
+    "geom:latitude":40.39276,
+    "geom:longitude":70.68284,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13428175: name \"Qashqar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13428175"
+        },
+        {
+            "citation":"GeoNames populated place 13428175: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13428175"
+        },
+        {
+            "citation":"GeoNames populated place 13428175: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13428175"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680407 (Ferghana), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680407,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13428175
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b094ee3f421dcf07f49dbad14148e7ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895060381,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":9895060381,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Qashqar",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    70.68284,
+    40.39276,
+    70.68284,
+    40.39276
+],
+  "geometry": {"coordinates":[70.68284,40.39276],"type":"Point"}
+}

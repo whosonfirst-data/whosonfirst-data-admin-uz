@@ -1,0 +1,72 @@
+{
+  "id": 9895059826,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.23588,39.91491,64.23588,39.91491",
+    "geom:latitude":39.91491,
+    "geom:longitude":64.23588,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12126365: name \"Kamkuch\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12126365"
+        },
+        {
+            "citation":"GeoNames populated place 12126365: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12126365"
+        },
+        {
+            "citation":"GeoNames populated place 12126365: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12126365"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680373 (Bukhoro), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680373,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12126365
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"1585a04ba8ef08cdb8cb8ed7c6c49627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895059826,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":9895059826,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Kamkuch",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.23588,
+    39.91491,
+    64.23588,
+    39.91491
+],
+  "geometry": {"coordinates":[64.23588,39.91491],"type":"Point"}
+}

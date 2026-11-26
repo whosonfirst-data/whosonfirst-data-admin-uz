@@ -1,0 +1,72 @@
+{
+  "id": 9895060379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.92832,41.03238,71.92832,41.03238",
+    "geom:latitude":41.03238,
+    "geom:longitude":71.92832,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13408518: name \"Qurama\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13408518"
+        },
+        {
+            "citation":"GeoNames populated place 13408518: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13408518"
+        },
+        {
+            "citation":"GeoNames populated place 13408518: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13408518"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680411 (Namangan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680411,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13408518
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"ee19528580cbf32d0e2215940a9b2088",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895060379,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":9895060379,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Qurama",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.92832,
+    41.03238,
+    71.92832,
+    41.03238
+],
+  "geometry": {"coordinates":[71.92832,41.03238],"type":"Point"}
+}

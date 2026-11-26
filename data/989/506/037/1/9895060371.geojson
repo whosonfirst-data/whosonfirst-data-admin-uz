@@ -1,0 +1,72 @@
+{
+  "id": 9895060371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.27417,41.1845,61.27417,41.1845",
+    "geom:latitude":41.1845,
+    "geom:longitude":61.27417,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12153115: name \"Oyoqova\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12153115"
+        },
+        {
+            "citation":"GeoNames populated place 12153115: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12153115"
+        },
+        {
+            "citation":"GeoNames populated place 12153115: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12153115"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680377 (Khorezm), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680377,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12153115
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"4f4a4b9499435a44d6b20eefeabb0a87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895060371,
+            "region_id":85680377
+        }
+    ],
+    "wof:id":9895060371,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Oyoqova",
+    "wof:parent_id":85680377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.27417,
+    41.1845,
+    61.27417,
+    41.1845
+],
+  "geometry": {"coordinates":[61.27417,41.1845],"type":"Point"}
+}

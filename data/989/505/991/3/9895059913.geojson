@@ -1,0 +1,72 @@
+{
+  "id": 9895059913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.92255,40.09857,68.92255,40.09857",
+    "geom:latitude":40.09857,
+    "geom:longitude":68.92255,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12126967: name \"Qushqand\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12126967"
+        },
+        {
+            "citation":"GeoNames populated place 12126967: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12126967"
+        },
+        {
+            "citation":"GeoNames populated place 12126967: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12126967"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680419 (Sirdaryo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680419,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12126967
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"35515457bf05e7fa81c0e5e04570b074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895059913,
+            "region_id":85680419
+        }
+    ],
+    "wof:id":9895059913,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Qushqand",
+    "wof:parent_id":85680419,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.92255,
+    40.09857,
+    68.92255,
+    40.09857
+],
+  "geometry": {"coordinates":[68.92255,40.09857],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895059759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.50311,40.81115,71.50311,40.81115",
+    "geom:latitude":40.81115,
+    "geom:longitude":71.50311,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11621404: name \"Baland-Gurtepa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11621404"
+        },
+        {
+            "citation":"GeoNames populated place 11621404: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11621404"
+        },
+        {
+            "citation":"GeoNames populated place 11621404: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11621404"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680411 (Namangan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680411,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11621404
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"bca956cdfcb265b3dffe8d477f695c53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895059759,
+            "region_id":85680411
+        }
+    ],
+    "wof:id":9895059759,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Baland-Gurtepa",
+    "wof:parent_id":85680411,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.50311,
+    40.81115,
+    71.50311,
+    40.81115
+],
+  "geometry": {"coordinates":[71.50311,40.81115],"type":"Point"}
+}

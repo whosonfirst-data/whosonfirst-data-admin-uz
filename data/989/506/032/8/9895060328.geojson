@@ -1,0 +1,72 @@
+{
+  "id": 9895060328,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.6357,41.44342,60.6357,41.44342",
+    "geom:latitude":41.44342,
+    "geom:longitude":60.6357,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12153024: name \"Kattakuch\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12153024"
+        },
+        {
+            "citation":"GeoNames populated place 12153024: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12153024"
+        },
+        {
+            "citation":"GeoNames populated place 12153024: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12153024"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680377 (Khorezm), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680377,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12153024
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"a44a40889e95e3c989f4251d08914441",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895060328,
+            "region_id":85680377
+        }
+    ],
+    "wof:id":9895060328,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Kattakuch",
+    "wof:parent_id":85680377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.6357,
+    41.44342,
+    60.6357,
+    41.44342
+],
+  "geometry": {"coordinates":[60.6357,41.44342],"type":"Point"}
+}
