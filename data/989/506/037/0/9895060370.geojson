@@ -1,0 +1,72 @@
+{
+  "id": 9895060370,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"61.15691,41.23406,61.15691,41.23406",
+    "geom:latitude":41.23406,
+    "geom:longitude":61.15691,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12153114: name \"Oyoqovul\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12153114"
+        },
+        {
+            "citation":"GeoNames populated place 12153114: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12153114"
+        },
+        {
+            "citation":"GeoNames populated place 12153114: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12153114"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680377 (Khorezm), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680377,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12153114
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"9ca01424cfbfd50cdee68d0fe8a40682",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895060370,
+            "region_id":85680377
+        }
+    ],
+    "wof:id":9895060370,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Oyoqovul",
+    "wof:parent_id":85680377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    61.15691,
+    41.23406,
+    61.15691,
+    41.23406
+],
+  "geometry": {"coordinates":[61.15691,41.23406],"type":"Point"}
+}

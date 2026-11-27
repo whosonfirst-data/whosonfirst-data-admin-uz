@@ -1,0 +1,72 @@
+{
+  "id": 9895060284,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.3602,41.69543,60.3602,41.69543",
+    "geom:latitude":41.69543,
+    "geom:longitude":60.3602,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12152692: name \"Kulli\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12152692"
+        },
+        {
+            "citation":"GeoNames populated place 12152692: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12152692"
+        },
+        {
+            "citation":"GeoNames populated place 12152692: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12152692"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680377 (Khorezm), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680377,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12152692
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"dac5ed527e7646e49b65f9b637016276",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895060284,
+            "region_id":85680377
+        }
+    ],
+    "wof:id":9895060284,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Kulli",
+    "wof:parent_id":85680377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.3602,
+    41.69543,
+    60.3602,
+    41.69543
+],
+  "geometry": {"coordinates":[60.3602,41.69543],"type":"Point"}
+}

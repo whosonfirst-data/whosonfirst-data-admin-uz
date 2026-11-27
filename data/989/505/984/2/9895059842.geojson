@@ -1,0 +1,72 @@
+{
+  "id": 9895059842,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.23245,40.02355,64.23245,40.02355",
+    "geom:latitude":40.02355,
+    "geom:longitude":64.23245,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12126403: name \"Qutchi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12126403"
+        },
+        {
+            "citation":"GeoNames populated place 12126403: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12126403"
+        },
+        {
+            "citation":"GeoNames populated place 12126403: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12126403"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680373 (Bukhoro), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680373,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12126403
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"7df4680c54b33700b9ec75140ced8c70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895059842,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":9895059842,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Qutchi",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.23245,
+    40.02355,
+    64.23245,
+    40.02355
+],
+  "geometry": {"coordinates":[64.23245,40.02355],"type":"Point"}
+}

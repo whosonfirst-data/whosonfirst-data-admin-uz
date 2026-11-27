@@ -1,0 +1,72 @@
+{
+  "id": 9895059786,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.81988,39.39444,63.81988,39.39444",
+    "geom:latitude":39.39444,
+    "geom:longitude":63.81988,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12126230: name \"Tolqonsayot\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12126230"
+        },
+        {
+            "citation":"GeoNames populated place 12126230: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12126230"
+        },
+        {
+            "citation":"GeoNames populated place 12126230: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12126230"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680373 (Bukhoro), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680373,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12126230
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"97b60d9d8e2522c9c2a6e2067336c250",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895059786,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":9895059786,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Tolqonsayot",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.81988,
+    39.39444,
+    63.81988,
+    39.39444
+],
+  "geometry": {"coordinates":[63.81988,39.39444],"type":"Point"}
+}

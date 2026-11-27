@@ -1,0 +1,72 @@
+{
+  "id": 9895060031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.58682,40.23951,67.58682,40.23951",
+    "geom:latitude":40.23951,
+    "geom:longitude":67.58682,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12127273: name \"Sulukli\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12127273"
+        },
+        {
+            "citation":"GeoNames populated place 12127273: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12127273"
+        },
+        {
+            "citation":"GeoNames populated place 12127273: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12127273"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680415 (Jizzakh), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680415,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12127273
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"78e0a3a4429ff33bcf81553e58cdd8b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895060031,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":9895060031,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Sulukli",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.58682,
+    40.23951,
+    67.58682,
+    40.23951
+],
+  "geometry": {"coordinates":[67.58682,40.23951],"type":"Point"}
+}

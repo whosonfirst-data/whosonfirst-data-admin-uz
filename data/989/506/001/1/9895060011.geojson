@@ -1,0 +1,72 @@
+{
+  "id": 9895060011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.98087,40.57469,67.98087,40.57469",
+    "geom:latitude":40.57469,
+    "geom:longitude":67.98087,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12127230: name \"Saritepa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12127230"
+        },
+        {
+            "citation":"GeoNames populated place 12127230: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12127230"
+        },
+        {
+            "citation":"GeoNames populated place 12127230: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12127230"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680415 (Jizzakh), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680415,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12127230
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"cde8b528f44efe83acecf0b0e88f4b2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895060011,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":9895060011,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Saritepa",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.98087,
+    40.57469,
+    67.98087,
+    40.57469
+],
+  "geometry": {"coordinates":[67.98087,40.57469],"type":"Point"}
+}

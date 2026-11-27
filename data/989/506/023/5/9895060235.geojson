@@ -1,0 +1,72 @@
+{
+  "id": 9895060235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.04919,39.57549,67.04919,39.57549",
+    "geom:latitude":39.57549,
+    "geom:longitude":67.04919,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12128166: name \"Qoranayman\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12128166"
+        },
+        {
+            "citation":"GeoNames populated place 12128166: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12128166"
+        },
+        {
+            "citation":"GeoNames populated place 12128166: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12128166"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680389 (Samarkand), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680389,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12128166
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5e3d02b698b646732f57c04e1885673a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895060235,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":9895060235,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Qoranayman",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.04919,
+    39.57549,
+    67.04919,
+    39.57549
+],
+  "geometry": {"coordinates":[67.04919,39.57549],"type":"Point"}
+}

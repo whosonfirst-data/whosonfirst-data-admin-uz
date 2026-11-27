@@ -1,0 +1,72 @@
+{
+  "id": 9895060253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.50193,40.04386,66.50193,40.04386",
+    "geom:latitude":40.04386,
+    "geom:longitude":66.50193,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12128194: name \"Jonrohat\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12128194"
+        },
+        {
+            "citation":"GeoNames populated place 12128194: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12128194"
+        },
+        {
+            "citation":"GeoNames populated place 12128194: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12128194"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680389 (Samarkand), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680389,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12128194
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5fa6a6b4c32bd4e229ff02b4e6f57d21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895060253,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":9895060253,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Jonrohat",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.50193,
+    40.04386,
+    66.50193,
+    40.04386
+],
+  "geometry": {"coordinates":[66.50193,40.04386],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895060064,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"65.53525,40.10142,65.53525,40.10142",
+    "geom:latitude":40.10142,
+    "geom:longitude":65.53525,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12127796: name \"Qodiriya\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12127796"
+        },
+        {
+            "citation":"GeoNames populated place 12127796: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12127796"
+        },
+        {
+            "citation":"GeoNames populated place 12127796: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12127796"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680389 (Samarkand), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680389,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12127796
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"342ed9be6e7055e5138f15197117137e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895060064,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":9895060064,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Qodiriya",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    65.53525,
+    40.10142,
+    65.53525,
+    40.10142
+],
+  "geometry": {"coordinates":[65.53525,40.10142],"type":"Point"}
+}

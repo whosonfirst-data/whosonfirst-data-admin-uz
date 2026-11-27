@@ -1,0 +1,72 @@
+{
+  "id": 9895059867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"64.62964,39.96713,64.62964,39.96713",
+    "geom:latitude":39.96713,
+    "geom:longitude":64.62964,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12126519: name \"Xayrabatcha\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12126519"
+        },
+        {
+            "citation":"GeoNames populated place 12126519: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12126519"
+        },
+        {
+            "citation":"GeoNames populated place 12126519: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12126519"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680385 (Navoi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680385,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12126519
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"51b09864bc2287e31c00c38e238ccf5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895059867,
+            "region_id":85680385
+        }
+    ],
+    "wof:id":9895059867,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Xayrabatcha",
+    "wof:parent_id":85680385,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    64.62964,
+    39.96713,
+    64.62964,
+    39.96713
+],
+  "geometry": {"coordinates":[64.62964,39.96713],"type":"Point"}
+}

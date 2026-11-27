@@ -1,0 +1,72 @@
+{
+  "id": 9895060348,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.8062,41.34394,60.8062,41.34394",
+    "geom:latitude":41.34394,
+    "geom:longitude":60.8062,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12153062: name \"Beshariq\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12153062"
+        },
+        {
+            "citation":"GeoNames populated place 12153062: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12153062"
+        },
+        {
+            "citation":"GeoNames populated place 12153062: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12153062"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680377 (Khorezm), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680377,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12153062
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"1adbecafb72c70380ad4c70cc6756c5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895060348,
+            "region_id":85680377
+        }
+    ],
+    "wof:id":9895060348,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Beshariq",
+    "wof:parent_id":85680377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.8062,
+    41.34394,
+    60.8062,
+    41.34394
+],
+  "geometry": {"coordinates":[60.8062,41.34394],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895060301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.23966,41.57268,60.23966,41.57268",
+    "geom:latitude":41.57268,
+    "geom:longitude":60.23966,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12152732: name \"Amirqum\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12152732"
+        },
+        {
+            "citation":"GeoNames populated place 12152732: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12152732"
+        },
+        {
+            "citation":"GeoNames populated place 12152732: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12152732"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680377 (Khorezm), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680377,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12152732
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"d742ac61061a6f3e1c4a20eda0eccd42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895060301,
+            "region_id":85680377
+        }
+    ],
+    "wof:id":9895060301,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Amirqum",
+    "wof:parent_id":85680377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.23966,
+    41.57268,
+    60.23966,
+    41.57268
+],
+  "geometry": {"coordinates":[60.23966,41.57268],"type":"Point"}
+}

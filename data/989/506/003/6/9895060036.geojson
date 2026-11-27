@@ -1,0 +1,72 @@
+{
+  "id": 9895060036,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.82902,40.23331,67.82902,40.23331",
+    "geom:latitude":40.23331,
+    "geom:longitude":67.82902,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12127278: name \"Chorvador\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12127278"
+        },
+        {
+            "citation":"GeoNames populated place 12127278: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12127278"
+        },
+        {
+            "citation":"GeoNames populated place 12127278: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12127278"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680415 (Jizzakh), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680415,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12127278
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"0b8feaa6e731521c28529795523e0d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895060036,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":9895060036,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Chorvador",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.82902,
+    40.23331,
+    67.82902,
+    40.23331
+],
+  "geometry": {"coordinates":[67.82902,40.23331],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895059758,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.983,40.73312,68.983,40.73312",
+    "geom:latitude":40.73312,
+    "geom:longitude":68.983,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11241900: name \"Shohruhiya\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11241900"
+        },
+        {
+            "citation":"GeoNames populated place 11241900: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11241900"
+        },
+        {
+            "citation":"GeoNames populated place 11241900: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11241900"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680425 (Tashkent), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680425,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11241900
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"eb2b8d3f0dfb85319e976f506a6a86c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895059758,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":9895059758,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Shohruhiya",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.983,
+    40.73312,
+    68.983,
+    40.73312
+],
+  "geometry": {"coordinates":[68.983,40.73312],"type":"Point"}
+}

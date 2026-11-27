@@ -1,0 +1,72 @@
+{
+  "id": 9895059959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.01996,40.45066,67.01996,40.45066",
+    "geom:latitude":40.45066,
+    "geom:longitude":67.01996,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12127034: name \"Yuqori Uchma\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12127034"
+        },
+        {
+            "citation":"GeoNames populated place 12127034: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12127034"
+        },
+        {
+            "citation":"GeoNames populated place 12127034: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12127034"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680415 (Jizzakh), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680415,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12127034
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"a301047ad6981e820962b00b9cc389b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895059959,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":9895059959,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Yuqori Uchma",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.01996,
+    40.45066,
+    67.01996,
+    40.45066
+],
+  "geometry": {"coordinates":[67.01996,40.45066],"type":"Point"}
+}

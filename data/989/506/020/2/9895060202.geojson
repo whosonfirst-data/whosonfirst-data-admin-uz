@@ -1,0 +1,72 @@
+{
+  "id": 9895060202,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.56675,39.66487,66.56675,39.66487",
+    "geom:latitude":39.66487,
+    "geom:longitude":66.56675,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12128104: name \"Burganli\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12128104"
+        },
+        {
+            "citation":"GeoNames populated place 12128104: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12128104"
+        },
+        {
+            "citation":"GeoNames populated place 12128104: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12128104"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680389 (Samarkand), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680389,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12128104
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"eba8798b23b1df0234a092a3809aa07b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895060202,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":9895060202,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Burganli",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.56675,
+    39.66487,
+    66.56675,
+    39.66487
+],
+  "geometry": {"coordinates":[66.56675,39.66487],"type":"Point"}
+}

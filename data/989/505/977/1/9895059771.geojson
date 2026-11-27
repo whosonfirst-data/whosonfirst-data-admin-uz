@@ -1,0 +1,72 @@
+{
+  "id": 9895059771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"63.7078,39.7641,63.7078,39.7641",
+    "geom:latitude":39.7641,
+    "geom:longitude":63.7078,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12126205: name \"Gazu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12126205"
+        },
+        {
+            "citation":"GeoNames populated place 12126205: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12126205"
+        },
+        {
+            "citation":"GeoNames populated place 12126205: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12126205"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680373 (Bukhoro), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680373,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12126205
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"82262ccfffcfa3981cf89d4718426bce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895059771,
+            "region_id":85680373
+        }
+    ],
+    "wof:id":9895059771,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Gazu",
+    "wof:parent_id":85680373,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    63.7078,
+    39.7641,
+    63.7078,
+    39.7641
+],
+  "geometry": {"coordinates":[63.7078,39.7641],"type":"Point"}
+}

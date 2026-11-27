@@ -1,0 +1,72 @@
+{
+  "id": 9895059919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.41862,40.07092,68.41862,40.07092",
+    "geom:latitude":40.07092,
+    "geom:longitude":68.41862,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12126975: name \"Baymogli\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12126975"
+        },
+        {
+            "citation":"GeoNames populated place 12126975: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12126975"
+        },
+        {
+            "citation":"GeoNames populated place 12126975: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12126975"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680415 (Jizzakh), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680415,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12126975
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"e3862a4c84f40eeafc1c437fa30b0f09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895059919,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":9895059919,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Baymogli",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.41862,
+    40.07092,
+    68.41862,
+    40.07092
+],
+  "geometry": {"coordinates":[68.41862,40.07092],"type":"Point"}
+}

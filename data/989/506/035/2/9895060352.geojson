@@ -1,0 +1,72 @@
+{
+  "id": 9895060352,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"60.70979,41.32554,60.70979,41.32554",
+    "geom:latitude":41.32554,
+    "geom:longitude":60.70979,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12153066: name \"Ogarlar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12153066"
+        },
+        {
+            "citation":"GeoNames populated place 12153066: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12153066"
+        },
+        {
+            "citation":"GeoNames populated place 12153066: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12153066"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680377 (Khorezm), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680377,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12153066
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"b2687acafcc950c7cec40c41691b1ead",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895060352,
+            "region_id":85680377
+        }
+    ],
+    "wof:id":9895060352,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Ogarlar",
+    "wof:parent_id":85680377,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    60.70979,
+    41.32554,
+    60.70979,
+    41.32554
+],
+  "geometry": {"coordinates":[60.70979,41.32554],"type":"Point"}
+}

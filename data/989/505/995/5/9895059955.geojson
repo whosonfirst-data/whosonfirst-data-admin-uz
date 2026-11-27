@@ -1,0 +1,72 @@
+{
+  "id": 9895059955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.98818,40.66099,66.98818,40.66099",
+    "geom:latitude":40.66099,
+    "geom:longitude":66.98818,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12127029: name \"Suyunquduq\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12127029"
+        },
+        {
+            "citation":"GeoNames populated place 12127029: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12127029"
+        },
+        {
+            "citation":"GeoNames populated place 12127029: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12127029"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680415 (Jizzakh), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680415,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12127029
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"a6911f9042c8b4d716a191c9f43ddea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895059955,
+            "region_id":85680415
+        }
+    ],
+    "wof:id":9895059955,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Suyunquduq",
+    "wof:parent_id":85680415,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.98818,
+    40.66099,
+    66.98818,
+    40.66099
+],
+  "geometry": {"coordinates":[66.98818,40.66099],"type":"Point"}
+}

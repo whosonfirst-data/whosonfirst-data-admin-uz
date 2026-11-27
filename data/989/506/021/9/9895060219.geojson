@@ -1,0 +1,72 @@
+{
+  "id": 9895060219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"67.16646,39.81213,67.16646,39.81213",
+    "geom:latitude":39.81213,
+    "geom:longitude":67.16646,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12128146: name \"Sariqipchoq\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12128146"
+        },
+        {
+            "citation":"GeoNames populated place 12128146: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12128146"
+        },
+        {
+            "citation":"GeoNames populated place 12128146: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12128146"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680389 (Samarkand), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680389,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12128146
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"87f5f536a202e57da009ef4d0a7f3ce4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895060219,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":9895060219,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Sariqipchoq",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    67.16646,
+    39.81213,
+    67.16646,
+    39.81213
+],
+  "geometry": {"coordinates":[67.16646,39.81213],"type":"Point"}
+}

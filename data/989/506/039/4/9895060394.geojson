@@ -1,0 +1,72 @@
+{
+  "id": 9895060394,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"68.77455,40.96963,68.77455,40.96963",
+    "geom:latitude":40.96963,
+    "geom:longitude":68.77455,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13433853: name \"Birlik\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13433853"
+        },
+        {
+            "citation":"GeoNames populated place 13433853: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13433853"
+        },
+        {
+            "citation":"GeoNames populated place 13433853: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13433853"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680425 (Tashkent), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680425,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13433853
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"f749f888353e3fd640924a9fd892c916",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895060394,
+            "region_id":85680425
+        }
+    ],
+    "wof:id":9895060394,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Birlik",
+    "wof:parent_id":85680425,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    68.77455,
+    40.96963,
+    68.77455,
+    40.96963
+],
+  "geometry": {"coordinates":[68.77455,40.96963],"type":"Point"}
+}

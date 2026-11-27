@@ -1,0 +1,72 @@
+{
+  "id": 9895060094,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.26459,39.43846,66.26459,39.43846",
+    "geom:latitude":39.43846,
+    "geom:longitude":66.26459,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12127870: name \"Pastkiqishloq\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12127870"
+        },
+        {
+            "citation":"GeoNames populated place 12127870: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12127870"
+        },
+        {
+            "citation":"GeoNames populated place 12127870: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12127870"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680389 (Samarkand), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680389,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12127870
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"5fdd9225e971a303c7bd4ef1962c10bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895060094,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":9895060094,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Pastkiqishloq",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.26459,
+    39.43846,
+    66.26459,
+    39.43846
+],
+  "geometry": {"coordinates":[66.26459,39.43846],"type":"Point"}
+}

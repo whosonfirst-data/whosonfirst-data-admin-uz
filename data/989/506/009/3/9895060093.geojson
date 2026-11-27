@@ -1,0 +1,72 @@
+{
+  "id": 9895060093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.11079,39.4616,66.11079,39.4616",
+    "geom:latitude":39.4616,
+    "geom:longitude":66.11079,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12127869: name \"Mehr\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12127869"
+        },
+        {
+            "citation":"GeoNames populated place 12127869: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12127869"
+        },
+        {
+            "citation":"GeoNames populated place 12127869: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12127869"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680389 (Samarkand), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680389,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12127869
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"9d38d92f8dc00aca7f01e44ea95a98b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895060093,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":9895060093,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Mehr",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.11079,
+    39.4616,
+    66.11079,
+    39.4616
+],
+  "geometry": {"coordinates":[66.11079,39.4616],"type":"Point"}
+}

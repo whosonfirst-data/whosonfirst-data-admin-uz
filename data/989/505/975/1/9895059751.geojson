@@ -1,0 +1,72 @@
+{
+  "id": 9895059751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"71.06818,39.90515,71.06818,39.90515",
+    "geom:latitude":39.90515,
+    "geom:longitude":71.06818,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 1476410: name \"Xushyor\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/1476410"
+        },
+        {
+            "citation":"GeoNames populated place 1476410: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/1476410"
+        },
+        {
+            "citation":"GeoNames populated place 1476410: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/1476410"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680407 (Ferghana), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680407,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1476410
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"3d6a0fda5a5b461991eff1975ee5d4bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895059751,
+            "region_id":85680407
+        }
+    ],
+    "wof:id":9895059751,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Xushyor",
+    "wof:parent_id":85680407,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    71.06818,
+    39.90515,
+    71.06818,
+    39.90515
+],
+  "geometry": {"coordinates":[71.06818,39.90515],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895060205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"66.9072,39.54854,66.9072,39.54854",
+    "geom:latitude":39.54854,
+    "geom:longitude":66.9072,
+    "iso:country":"UZ",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12128107: name \"Past Ohaklik\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12128107"
+        },
+        {
+            "citation":"GeoNames populated place 12128107: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12128107"
+        },
+        {
+            "citation":"GeoNames populated place 12128107: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12128107"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680389 (Samarkand), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632645,
+        85680389,
+        102191569
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12128107
+    },
+    "wof:country":"UZ",
+    "wof:geomhash":"659de8081e6c344817c442717f33b92c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632645,
+            "locality_id":9895060205,
+            "region_id":85680389
+        }
+    ],
+    "wof:id":9895060205,
+    "wof:lastmodified":1795735027,
+    "wof:name":"Past Ohaklik",
+    "wof:parent_id":85680389,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-uz",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    66.9072,
+    39.54854,
+    66.9072,
+    39.54854
+],
+  "geometry": {"coordinates":[66.9072,39.54854],"type":"Point"}
+}
